@@ -2,19 +2,16 @@
 
 
 /**
- * add-Adds two values
- * @a: The first number to be completed
- * @b: The second number to be completed
- * Return : Integer value
+ * add - Adds two values
+ * @n1: The first number to be computed
+ * @n2: The second number to be computed
+ * Return: Integer value
  */
 
-
-int add(int a, int b)
+int add(int n1, int n2)
 
 {
-	int c;
 
-	c = a + b;
+	return (n1 + n2);
 
-	return (c);
 }
