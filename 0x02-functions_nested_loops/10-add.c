@@ -1,18 +1,16 @@
 #include "main.h"
-#include <stdio.h>
+
 
 /**
- *   main - check the code
- * 
- *   Return: Always 0.
+ * add - Adds two values 
+ * @a: The first number to be completed
+ * @b: The second number to be completed
+ * Return : Integer value
  */
 
-int main(void)
+int add (int a, int b)
 {
-	    int n;
-
-	        n = add(89, 9);
-		printf("%d\n", n);
-		return (0);
-
+	int c;
+	c = a + b;
+	return (c);
 }
