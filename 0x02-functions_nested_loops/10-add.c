@@ -11,6 +11,9 @@
 int add(int n1, int n2)
 
 {
+	/*
+	 * This will return the sum of both values
+	 */
 
 	return (n1 + n2);
 
