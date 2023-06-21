@@ -2,7 +2,7 @@
 
 
 /**
- * add-Adds two values 
+ * add-Adds two values
  * @a: The first number to be completed
  * @b: The second number to be completed
  * Return : Integer value
